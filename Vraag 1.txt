@@ -1,0 +1,204 @@
+Naam: Theus de Zeeuw
+LLN: 99052035
+
+Vraag: In welke comic kwam the Black Panther voor het eerst voor?
+
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2020 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+    "etag": "d9e75207394974e518a557554461baa45d9620f2",
+    "data": {
+        "offset": 0,
+        "limit": 20,
+        "total": 1,
+        "count": 1,
+        "results": [
+            {
+                "id": 17487,
+                "digitalId": 0,
+                "title": "X-Men: The Complete Onslaught Epic Vol. 4 (2009)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2018-07-10T13:15:09-0400",
+                "isbn": "0-7851-2826-3",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17487",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/17487/x-men_the_complete_onslaught_epic_vol_4_2009?utm_campaign=apiRef&utm_source=96bf352fd7f61c06a8b41edae4ea1909"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/3319",
+                    "name": "X-Men: The Complete Onslaught Epic Vol. 4 (2009)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57dae7fc9caf2",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57dae7fc9caf2",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17487/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 31,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17487/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+                            "name": "Apocalypse"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+                            "name": "Bishop"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+                            "name": "Black Widow"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+                            "name": "Cannonball"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+                            "name": "Crystal"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+                            "name": "Cyclops"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+                            "name": "Doctor Doom"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+                            "name": "Falcon"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+                            "name": "Gambit"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                            "name": "Hulk"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                            "name": "Human Torch"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+                            "name": "Iceman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+                            "name": "Invisible Woman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009380",
+                            "name": "Joseph"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+                            "name": "Mr. Fantastic"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17487/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/26051",
+                            "name": "ONSLAUGHT: MARVEL UNIVERSE (1996) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/26052",
+                            "name": "With Great Power ...",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/67689",
+                            "name": "X-MEN: THE COMPLETE ONSLAUGHT EPIC VOL. 4 TPB 0 cover",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "events": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17487/events",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+                            "name": "Onslaught"
+                        }
+                    ],
+                    "returned": 1
+                }
+            }
+        ]
+    }
+}
